@@ -1,5 +1,4 @@
-## Hi there 👋# 👋 Hola, soy Luis Fernando  
-## 👋 Hi, I'm Luis Fernando
+👋 Hola, soy Luis Fernando  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" alt="QA Banner" />
@@ -7,29 +6,23 @@
 
 ---
 
-## 👨‍💻 Sobre mí | About Me  
+## 👨‍💻 Sobre mí
 
 🇪🇸  
 Soy **QA Engineer** con experiencia en **pruebas manuales, funcionales, de regresión y automatizadas**.  
 Me enfoco en garantizar la **calidad del software**, la **detección temprana de defectos** y la **mejora continua** de los procesos de testing.
 
-🇺🇸  
-I am a **QA Engineer** with experience in **manual, functional, regression, and automated testing**.  
-I focus on ensuring **software quality**, **early defect detection**, and **continuous improvement** of testing processes.
 
 ---
 
-## 🎯 Objetivo profesional | Professional Goal  
+## 🎯 Objetivo profesional 
 
 🇪🇸  
 Contribuir a proyectos tecnológicos asegurando productos **confiables, escalables y centrados en el usuario**, aplicando buenas prácticas de calidad y automatización.
 
-🇺🇸  
-To contribute to tech projects by delivering **reliable, scalable, and user-focused products**, applying quality best practices and test automation.
-
 ---
 
-## 🧪 Habilidades técnicas | Technical Skills  
+## 🧪 Habilidades técnicas 
 
 ### 🔹 Testing
 - Pruebas manuales / Manual testing  
@@ -49,7 +42,7 @@ To contribute to tech projects by delivering **reliable, scalable, and user-focu
 
 ---
 
-## 🛠️ Herramientas | Tools  
+## 🛠️ Herramientas
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
@@ -61,7 +54,7 @@ To contribute to tech projects by delivering **reliable, scalable, and user-focu
 
 ---
 
-## 📌 Proyectos destacados | Featured Projects  
+## 📌 Proyectos destacados
 
 - 🔹 **Pruebas de soporte de API**  
   _API support testing using Postman_
@@ -74,21 +67,17 @@ To contribute to tech projects by delivering **reliable, scalable, and user-focu
 
 ---
 
-## 📈 Actualmente | Currently  
+## 📈 Actualmente
 
 🇪🇸  
 - Aprendiendo automatización de pruebas con Selenium y Python  
 - Mejorando habilidades en QA Automation y testing de APIs  
 - Enfocado en calidad, detalle y trabajo en equipo  
 
-🇺🇸  
-- Learning test automation with Selenium and Python  
-- Improving QA Automation and API testing skills  
-- Focused on quality, detail, and teamwork  
 
 ---
 
-## 📫 Contáctame | Contact Me  
+## 📫 Contáctame 
 
 - 📧 Email: `<fer_logu@hotmail.com>`
 - 💼 LinkedIn: `<https://www.linkedin.com/in/luis-lópez-5839b032>`
@@ -97,4 +86,3 @@ To contribute to tech projects by delivering **reliable, scalable, and user-focu
 ---
 
 ⭐ _Gracias por visitar mi perfil. ¡Siempre abierto a aprender y colaborar!_  
-⭐ _Thanks for visiting my profile. Always open to learning and collaboration!_
