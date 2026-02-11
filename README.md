@@ -1,7 +1,7 @@
 👋 Hola, soy Luis Fernando  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" alt="QA Banner" />
+  <img src="https://raw.githubusercontent.com/Luis-Fernando360/Luis-Fernandi360/main/banner.png" alt="QA Banner" />
 </p>
 
 ---
