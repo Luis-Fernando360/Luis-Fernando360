@@ -1,8 +1,9 @@
-👋 Hola, soy Luis Fernando  
 
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" style="width:100%; max-height:300px; object-fit:cover;" />
 </p>
+
+👋 Hola, soy Luis Fernando  
 
 ---
 
