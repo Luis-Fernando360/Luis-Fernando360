@@ -9,8 +9,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **QA Engineer** con experiencia en **pruebas manuales, funcionales, de regresión y automatizadas**.  
-Me enfoco en garantizar la **calidad del software**, la **detección temprana de defectos** y la **mejora continua** de los procesos de testing.
+Soy **QA Engineer** con experiencia en **testing manual, pruebas funcionales, pruebas de regresión, pruebas de humo y testing móvil (Android Studio)**. Manejo el diseño, ejecución y documentación de casos de prueba, validación de requisitos funcionales y no funcionales, así como en la **detección, análisis y reporte de bugs**. Mi enfoque está orientado a la mejora continua del producto, asegurando entregables alineados con estándares de calidad y objetivos del negocio.
+
+Mi formación como Ingeniero Petrolero me permitió desarrollar una fuerte capacidad analítica, orientación al cumplimiento de estándares nacionales e internacionales, liderazgo y trabajo en equipo. Hoy aplico estas habilidades en entornos ágiles, aportando pensamiento crítico y enfoque estructurado en cada proyecto. Estoy abierto a nuevos retos profesionales como QA Engineer, donde pueda seguir contribuyendo a la excelencia del producto y la optimización de procesos de calidad.
 
 
 ---
@@ -78,7 +79,7 @@ Contribuir a proyectos tecnológicos asegurando productos **confiables, escalabl
 ## 📫 Contáctame 
 
 - 📧 Email: `<fer_logu@hotmail.com>`
-- 💼 LinkedIn: `<https://www.linkedin.com/in/luis-lópez-5839b032>`
+- 💼 LinkedIn: `<https://www.linkedin.com/in/luislopez-qaengineer/>`
 - 🐙 GitHub: `https://github.com/Luis-Fernando360`
 
 ---
