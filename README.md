@@ -8,7 +8,6 @@
 
 ## 👨‍💻 Sobre mí
 
-🇪🇸  
 Soy **QA Engineer** con experiencia en **pruebas manuales, funcionales, de regresión y automatizadas**.  
 Me enfoco en garantizar la **calidad del software**, la **detección temprana de defectos** y la **mejora continua** de los procesos de testing.
 
@@ -17,7 +16,6 @@ Me enfoco en garantizar la **calidad del software**, la **detección temprana de
 
 ## 🎯 Objetivo profesional 
 
-🇪🇸  
 Contribuir a proyectos tecnológicos asegurando productos **confiables, escalables y centrados en el usuario**, aplicando buenas prácticas de calidad y automatización.
 
 ---
@@ -69,7 +67,6 @@ Contribuir a proyectos tecnológicos asegurando productos **confiables, escalabl
 
 ## 📈 Actualmente
 
-🇪🇸  
 - Aprendiendo automatización de pruebas con Selenium y Python  
 - Mejorando habilidades en QA Automation y testing de APIs  
 - Enfocado en calidad, detalle y trabajo en equipo  
